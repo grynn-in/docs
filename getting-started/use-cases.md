@@ -1,6 +1,6 @@
 # Use Cases
 
-Directus is a simple, unopinionated tool that makes no assumptions about how it will be used. Sometimes that makes it difficult to
+Directus is a simple, unopinionated tool that makes no assumptions about how it will be used. Sometimes that makes it difficult to distribut consistent information in a structured way to different applications such as : 
 
 ## Websites
 
